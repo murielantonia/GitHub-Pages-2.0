@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<title>Markierung der Spieler (Sprite1 und Sprite2</title>
+</head>
+
+<body style="background-color:FFFF99;">
+
+<h2 style="color:FF00CC;"> <a id="MdS">Markierungen der Spieler (Sprite2 und Sprite3)</a></h2>
+
+<p>Nun zu den Markierungen, also den Färbungen der Spielfeldzellen in der Farbe, die dem Spieler entspricht, der den Zug gemacht hat: Wir haben uns, für unsere Tic-Tac-Toe Galaxy, dafür entschieden, die Markierungen auf dem Spielfeld schlicht zu halten. Im Gegensatz zum originalen Tic-Tac-Toe haben diese eine quadratische Form, die sich für den Spieler nur in ihrer Farbe unterscheiden, Form und Größe sind für beide Sprites gleich. Dies ist nicht nur Geschmackssache, sondern hat auch einen praktischen Nutzen. Da die Grundstruktur beider Markierungen gleich ist, musste diese nur einmal überlegt, durchdacht und programmiert werden. Damit die Markierungen stets symmetrisch sind, beginnt der Sprite seine Zeichnung in der Mitte der Spielfeldzelle. Die Koordinaten dieser Mitte mussten für jede der neun Zellen definiert und mit dem oben genannten Reporter in Verbindung gebracht werden. Die Bilder stellen zwar den zweiten Schritt des Programmierens dar, die hier gewählte Chronologie ist für den Leser jedoch leichter zu verstehen und begreifen.</p>
+
+<p><img src="bilder/Bild10.png" alt="Bild10" style="width:308px;height:450px;border:0;"></p>
+
+<p><img src="bilder/Bild11.png" alt="Bild11" style="width:316px;height:447px;border:0;"></p>
+
+<p>Von der Mitte der jeweiligen Spielfeldzelle aus beginnend, nimmt der Sprite nun wieder die Rolle des „Stiftes“ ein, der eine Linie von definierter Breite und Farbe hinter sich zieht, sobald er sich über die Stage bewegt. Doch bevor der Sprite mit dem Zeichnen beginnt, begibt er sich in eine Ecke der Zelle, was Symmetrie garantiert und das Programmieren erleichtert. Von dieser Ecke ausgehend, zeichnet der Sprite also ein Quadrat der Kantenlänge 70. Anschließend füllt er das Quadrat aus, mithilfe einer Hin- und Herbewegung, die siebenfach wiederholt und mit jeder Wiederholung fünf Schritte nach oben versetzt wird. Diese fünf Schritte sind an die Stiftbreite angepasst und wechseln sich mit den siebzig Schritten ab, die es braucht, um eine „Bahn“ zu ziehen. Auf den unteren Bildern sind die individuell erstellten Blöcke zu sehen, die die Markierungen der beiden Spieler, Sprite2 und Sprite3, definieren. Zum Verständnis: Bevor wir das Programm endgültig designt haben, hatten die Sprites noch rote und blaue Markierungen und selbst die entsprechende Farbe. „Rot“ entspricht nun der gelben Markierung des Ufos, „Blau“ entspricht der grauen Markierung des Astronauten.</p>
+
+<p><img src="bilder/Bild12.png" alt="Bild12" style="width:284px;height:829px;border:0;"></p>
+
+<p><img src="bilder/Bild13.png" alt="Bild13" style="width:277px;height:816px;border:0;"></p>
+
+<p>Im Verlauf des Spiels haben beide Spieler die Möglichkeit, die Sprites auf eine der Spielfeldzellen zu ziehen, und sie dort abzusetzen, um eine Markierung vorzunehmen. Dazu werden die eben erklärten und erstellten Blöcke genutzt, die ein bestimmtes Feld in einer bestimmten Farbe markieren können.</p>
+
+<p><img src="bilder/Bild14.png" alt="Bild14" style="width:563px;height:387px;border:0;"></p>
+
+<p><img src="bilder/Bild15.png" alt="Bild15" style="width:563px;height:434;border:0;"></p>
+
+<p>Nachdem die Sprites also die gewollte und gewünschte Spielfeldzelle markiert haben, senden sie zwei Broadcast-Nachrichten („Feld markieren: Blau!“ und „Spielende?“) und warten eine Sekunde, bevor sie zu ihrer ursprünglichen Position zurückkehren. Anschließend geben sie eine weitere Nachricht ab, jedoch nicht im Hintergrund des Geschehens, sondern für den Spieler sichtbar. Dieser soll dazu aufgefordert werden, die Maus weiterzugeben und mit dem nächsten Sprite eine Markierung auf dem Spielfeld zu machen. Das Ufo sagt nach einem vollendeten Spielzug: „Astronaut, du bist an der Reihe!“. Der Astronaut sagt nach einem vollendeten Spielzug: „Ufo, zeig, was du kannst!“</p> 
+
+</body>
+
+</html>
