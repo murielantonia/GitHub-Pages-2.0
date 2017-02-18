@@ -1,0 +1,24 @@
+<html>
+
+<head>
+<title>
+</head>
+
+<body style="background-color:006633;">
+
+<h2 style="color:FF00CC;"><b>  <a id="ARuAeG">Automatische Registrierung und Ankündigung eines Gleichstandes</a> </b></h2>
+
+<p>Beim Tic-Tac-Toe spielen kann es natürlich auch passieren, dass es keinen Gewinner / Verlierer gibt, obwohl das Spielfeld schon voll von Markierungen ist. Auch diesen Fall haben wir in unserem Programm bedacht. Auf dem folgenden Screenshot ist das Skript dazu abgebildet:</p>
+
+<p><img src="bilder/Bild25.png" alt="Bild25" style="width:425px;height:470px;border:0;"></p>
+
+<p>Erinnerung: Sobald Sprite2 und Sprite3 auf eine Spielfeldzelle gezogen werden, geben sie zwei Broadcast-Nachrichten ab. Die erste, „Feld markieren: Rot / Blau!“ wurde bereits behandelt (Automatische Registrierung und Ankündigung des Gewinners). Die zweite, „Spielende?“ wird vom Spielleiter empfangen und löst das im obigen Screenshot abgebildete Programmstück aus.</p> 
+<p>Dieses prüft, mit Hilfe des Variablenverzeichnisses, ob alle Spielfeldzellen bereits markiert sind, in einer der zwei Farben. Wenn also Rot1 oder Blau1, Rot2 oder Blau2, ... und Rot9 oder Blau9 „True“ sind, ohne das zuvor ein Gewinner festgestellt wurde, wird das Spiel trotzdem beendet. Dabei ist das „Und“ in der If-Bedingung von hoher Relevanz. Nun nimmt der Spielleiter die Gestalt eines Aliens, von festgelegter Größe (75%), an, begibt sich in die Mitte des Spielfeldes, sagt „Das habt ihr beide gleichermaßen versiebt! Gratulation“, wartet fünf Sekunden und versteckt sich anschließend. Das Programm dazu ist analog zu dem Block „Announce: Red / Blue wins!“ und relativ selbsterklärend:</p>
+
+<p><img src="bilder/Bild26.png" alt="Bild26" style="width:943px;height:591px;border:0;"></p>
+
+<p>Durch Klicken der grünen Fahne kann das Spiel nun von neuem beginnen.</p> 
+
+</body>
+
+</html>
