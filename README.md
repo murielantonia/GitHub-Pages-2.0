@@ -1,9 +1,7 @@
 # GitHub-Pages 2.0
 
-Dies ist unser GitHub-Pages 2.0
-
-Falls ihr nicht von ewigem Scrollen genervt sein wollt besucht diese Website:
+Wir haben unsere ursprüngliche Website upgedatet, um euch vom lästigen Scrollen zu befreien!
 
 https://murielantonia.github.io/GitHub-Pages-2.0/Startseite
 
-LG Muriel und Antonia
+LG, Muriel und Antonia!
