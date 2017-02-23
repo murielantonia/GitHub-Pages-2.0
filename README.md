@@ -14,6 +14,8 @@ LG, Muriel und Antonia!
 
 ![Pages](bilder/Pages28.PNG "Einbindung des externen Stylesheet(CSS)")
 
+https://www.w3schools.com/css/default.asp
+
 
 
 
