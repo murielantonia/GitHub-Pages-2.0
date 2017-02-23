@@ -13,6 +13,7 @@ LG, Muriel und Antonia!
 #Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
+Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0).
 
 ![Pages](bilder/Pages27.PNG "Veränderte Schriftgröße auf Website")
 
