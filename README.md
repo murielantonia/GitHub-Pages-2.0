@@ -6,9 +6,13 @@ https://murielantonia.github.io/GitHub-Pages-2.0/Startseite
 
 LG, Muriel und Antonia!
 
+
+
 [Achtzehnte Informatikstunde](#achtzehn)
 
 #Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
+
+Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
 
 ![Pages](bilder/Pages27.PNG "Veränderte Schriftgröße auf Website")
 
