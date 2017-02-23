@@ -18,6 +18,10 @@ Um nun mit Css zu arbeiten, nutzen wir folgendes Tutorial:
 
 https://www.w3schools.com/css/default.asp
 
+![Pages](bilder/Pages29.PNG "  ")
+
+![Pages](bilder/Pages30.PNG " ")
+
 ![Pages](bilder/Pages31.PNG "Text mittig")
 
 ![Pages](bilder/Pages32.PNG "Neue Textformatierung")
