@@ -10,5 +10,10 @@ LG, Muriel und Antonia!
 
 #Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
-In dieser Informatikstunde haben wir unser neues Projekt begonnen. Dazu machten wir zunächst Skizzen, wie wir uns unsere Website vorstellen. Wir wollen ihr so einen professionellen Look verpassen.
+![Pages](bilder/Pages27.PNG "Veränderte Schriftgröße auf Website")
+
+![Pages](bilder/Pages28.PNG "Einbindung des externen Stylesheet(CSS)")
+
+
+
 
