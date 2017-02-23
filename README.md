@@ -14,6 +14,8 @@ LG, Muriel und Antonia!
 
 ![Pages](bilder/Pages28.PNG "Einbindung des externen Stylesheet(CSS)")
 
+Um nun mit Css zu arbeiten, nutzen wir folgendes Tutorial:
+
 https://www.w3schools.com/css/default.asp
 
 ![Pages](bilder/Pages31.PNG "Text mittig")
