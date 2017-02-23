@@ -16,6 +16,10 @@ LG, Muriel und Antonia!
 
 https://www.w3schools.com/css/default.asp
 
+![Pages](bilder/Pages31.PNG "Text mittig")
+
+![Pages](bilder/Pages32.PNG "Neue Textformatierung")
+
 
 
 
