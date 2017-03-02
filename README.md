@@ -26,13 +26,11 @@ Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHu
 
 ![Pages](bilder/Pages30.PNG "Eigenschaften")
 
-Auf diesem Bild sieht man einige Eigenschaften, Schriftbild und Textformatierung, die wir den Elementen p, h1 und h2 zugeschrieben haben. Nach diesen Veränderungen sehen die dazugehörigen Elemente unserer Website so aus:
+Übersetzung: Auf diesem Bild sieht man einige Eigenschaften, Schriftbild und Textformatierung, die wir den Elementen p, h1 und h2 zugeschrieben haben. Nach diesen Veränderungen sehen die dazugehörigen Elemente unserer Website so aus.
 
 ![Pages](bilder/Pages29.PNG "Mittiger Text")
 
 ![Pages](bilder/Pages31.PNG "Mittige Überschrift(h1)")
-
-![Pages](bilder/Pages32.PNG "Neue Textformatierung")
 
 Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informationen, die uns die Erarbeitung von HTML und CSS erleichtert haben. https://www.w3schools.com/css/default.asp
 
