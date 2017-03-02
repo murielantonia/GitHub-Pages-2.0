@@ -20,17 +20,16 @@ LG, Muriel und Antonia!
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
 Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0). Um nun erste, allgemeingültige Änderungen vornehmen zu können, mussten wir jedes HTML-Dokument mit dem externen Stylesheet formate.css, den wir soeben erstellt haben, pfadmäßig verlinken. In diesen externen Stylesheet können wir Eigenschaften von Paragraphen, Titeln oder Grafiken manifestieren, die für jede der "Unterseiten" gültig sind. Beispielsweise haben wir zunächst die Schriftgröße auf Start- und Subseiten verändert, um erstmalig von diesem Prinzip Gebrauch zu machen. So sieht unsere Website nach aktuellem Stand aus:
 
-![Pages](bilder/Pages27.PNG "Veränderte Schriftgröße auf Website")
-
 ![Pages](bilder/Pages28.PNG "Einbindung des Externen Stylesheet")
+
+![Pages](bilder/Pages30.PNG "Eigenschaften")
+
 
 Um nun mit Css zu arbeiten, nutzen wir folgendes Tutorial:
 
 https://www.w3schools.com/css/default.asp
 
 ![Pages](bilder/Pages29.PNG "Text mittig")
-
-![Pages](bilder/Pages30.PNG "Eigenschaften text, Überschriften")
 
 ![Pages](bilder/Pages31.PNG "Überschrift(h1) mittig")
 
