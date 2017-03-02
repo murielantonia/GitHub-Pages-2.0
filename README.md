@@ -15,7 +15,7 @@ LG, Muriel und Antonia!
 
 [Zwanzigste Informatikstunde](#zwanzig)
 
-#Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
+##Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
 Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0).
@@ -36,13 +36,13 @@ https://www.w3schools.com/css/default.asp
 
 ![Pages](bilder/Pages32.PNG "Neue Textformatierung")
 
-#Neunzehnte Informatikstunde <a name="neunzehn"><a/>                                                                  01.03.2017
+##Neunzehnte Informatikstunde <a name="neunzehn"><a/>                                                                  01.03.2017
 
 ![Pages](bilder/Pages33.PNG "Paragraphen Css Center")
 
 *Arten von Stylesheets beschreiben (external, internal, inline)
 
-#Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
+##Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
 
 ![Pages](bilder/Pages37.PNG "Navigationsleiste")
 
