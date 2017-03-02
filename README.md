@@ -22,20 +22,20 @@ Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHu
 
 ![Pages](bilder/Pages28.PNG "Einbindung des Externen Stylesheet")
 
-Übersetzung: Mit dem Attribut rel wird die Beziehung von dem Element "head" und der verlinkten Datei angegeben. Der Name ist Programm. "stylesheet" bedeutet, dass ein Stylesheet eingebunden werden soll. Das Attribut href referenziert die einzubindende Stylesheet-Datei. Der medientyp der formate.css Datei wird mit dem Attribut type definiert, es handelt sich um eine CSS-Textdatei.
+Übersetzung: Mit dem Attribut rel wird die Beziehung von dem Element "head" und der verlinkten Datei angegeben. Der Name ist Programm. "stylesheet" bedeutet, dass ein Stylesheet eingebunden werden soll. Das Attribut href referenziert die einzubindende Stylesheet-Datei. Der Medientyp der formate.css Datei wird mit dem Attribut type definiert, es handelt sich um eine CSS-Textdatei.
 
 ![Pages](bilder/Pages30.PNG "Eigenschaften")
 
+Auf diesem Bild sieht man einige Eigenschaften, Schriftbild und Textformatierung, die wir den Elementen p, h1 und h2 zugeschrieben haben. Nach diesen Veränderungen sehen die dazugehörigen Elemente unserer Website so aus:
 
-Um nun mit Css zu arbeiten, nutzen wir folgendes Tutorial:
+![Pages](bilder/Pages29.PNG "Mittiger Text")
 
-https://www.w3schools.com/css/default.asp
-
-![Pages](bilder/Pages29.PNG "Text mittig")
-
-![Pages](bilder/Pages31.PNG "Überschrift(h1) mittig")
+![Pages](bilder/Pages31.PNG "Mittige Überschrift(h1)")
 
 ![Pages](bilder/Pages32.PNG "Neue Textformatierung")
+
+Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informationen, die uns die Erarbeitung von HTML und CSS erleichtert haben. https://www.w3schools.com/css/default.asp
+
 
 ##Neunzehnte Informatikstunde <a name="neunzehn"><a/>                                                                  01.03.2017
 
