@@ -37,11 +37,11 @@ https://www.w3schools.com/css/default.asp
 
 #Neunzehnte Informatikstunde <a name="neunzehn"><a/>                                                                  01.03.2017
 
-![Pages](bilder/Pages33.PNG " ")
+![Pages](bilder/Pages33.PNG "Paragraphen Css Center")
 
 #Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
 
-![Pages](bilder/Pages37.PNG " ")
+![Pages](bilder/Pages37.PNG "Navigationsleiste")
 
 
 
