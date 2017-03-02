@@ -22,7 +22,7 @@ Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHu
 
 ![Pages](bilder/Pages28.PNG "Einbindung des Externen Stylesheet")
 
-Übersetzung: Mit dem Attribut rel wird die Beziehung von dem Element "head" und der verlinkten Datei angegeben. Der Name ist Programm. "stylesheet" bedeutet, dass ein Stylesheet eingebunden werden soll. Das href-Attribut referenziert die einzubindende Stylesheet-Datei. 
+Übersetzung: Mit dem Attribut rel wird die Beziehung von dem Element "head" und der verlinkten Datei angegeben. Der Name ist Programm. "stylesheet" bedeutet, dass ein Stylesheet eingebunden werden soll. Das Attribut href referenziert die einzubindende Stylesheet-Datei. Der medientyp der formate.css Datei wird mit dem Attribut type definiert, es handelt sich um eine CSS-Textdatei.
 
 ![Pages](bilder/Pages30.PNG "Eigenschaften")
 
