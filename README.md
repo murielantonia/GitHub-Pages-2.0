@@ -9,6 +9,8 @@ LG, Muriel und Antonia!
 
 
 [Achtzehnte Informatikstunde](#achtzehn)
+[Neunzehnte Informatikstunde](#neunzehn)
+[Zwanzigste Informatikstunde](#zwanzig)
 
 #Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
@@ -30,6 +32,15 @@ https://www.w3schools.com/css/default.asp
 ![Pages](bilder/Pages31.PNG "Text mittig")
 
 ![Pages](bilder/Pages32.PNG "Neue Textformatierung")
+
+#Neunzehnte Informatikstunde <a name="neunzehn"><a/>                                                                  01.03.2017
+
+![Pages](bilder/Pages33.PNG " ")
+
+![Pages](bilder/Pages34.PNG " ")
+
+#Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
+
 
 
 
