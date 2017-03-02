@@ -37,11 +37,9 @@ https://www.w3schools.com/css/default.asp
 
 ![Pages](bilder/Pages33.PNG " ")
 
-![Pages](bilder/Pages34.PNG " ")
-
 #Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
 
-
+![Pages](bilder/Pages37.PNG " ")
 
 
 
