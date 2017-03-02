@@ -7,6 +7,7 @@ https://murielantonia.github.io/GitHub-Pages-2.0/Startseite
 LG, Muriel und Antonia!
 
 
+##Inhaltsverzeichnis
 
 [Achtzehnte Informatikstunde](#achtzehn)
 
@@ -39,9 +40,13 @@ https://www.w3schools.com/css/default.asp
 
 ![Pages](bilder/Pages33.PNG "Paragraphen Css Center")
 
+*Arten von Stylesheets beschreiben (external, internal, inline)
+
 #Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
 
 ![Pages](bilder/Pages37.PNG "Navigationsleiste")
+
+*Quellcode Nav.leiste beschreiben!!
 
 
 
