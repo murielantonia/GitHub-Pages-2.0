@@ -18,9 +18,11 @@ LG, Muriel und Antonia!
 ##Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
-Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0). Um nun erste, allgemeingültige Änderungen vornehmen zu können, mussten wir jedes HTML-Dokument mit dem externen Stylesheet formate.css, den wir soeben erstellt haben, pfadmäßig verlinken. In diesen externen Stylesheet können wir Eigenschaften von Paragraphen, Titeln oder Grafiken manifestieren, die für jede der "Unterseiten" gültig sind. Beispielsweise haben wir zunächst die Schriftgröße auf Start- und Subseiten verändert, um erstmalig von diesem Prinzip Gebrauch zu machen. So sieht unsere Website nach aktuellem Stand aus:
+Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0). Um nun erste, allgemeingültige Änderungen vornehmen zu können, mussten wir jedes HTML-Dokument mit dem externen Stylesheet formate.css, den wir soeben erstellt haben, pfadmäßig verlinken. Diese Einbindung geschieht durch einen Link, der im Head der HTML-Dokumente definiert wird. In diesen externen Stylesheet können wir den Look der gesamten Website, also auch für alle "Unterseiten" verändern, indem wir nur auf ein einziges Dokument zugreifen. Beispielsweise haben wir zunächst die Schriftgröße auf Start- und Subseiten verändert, um erstmalig von diesem Prinzip Gebrauch zu machen. 
 
 ![Pages](bilder/Pages28.PNG "Einbindung des Externen Stylesheet")
+
+Übersetzung: Mit dem Attribut rel wird die Beziehung von dem Element "head" und der verlinkten Datei angegeben. Der Name ist Programm. "stylesheet" bedeutet, dass ein Stylesheet eingebunden werden soll. Das href-Attribut referenziert die einzubindende Stylesheet-Datei. 
 
 ![Pages](bilder/Pages30.PNG "Eigenschaften")
 
