@@ -15,6 +15,8 @@ LG, Muriel und Antonia!
 
 [Zwanzigste Informatikstunde](#zwanzig)
 
+[Einundzwanzigste Informatikstunde](#einundzwanzig)
+
 ##Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
@@ -49,7 +51,7 @@ Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informa
 
 *Quellcode Nav.leiste beschreiben!!
 
-##Einundzwanzigste Informatikstunde <a name="neunzehn"><a/>                                                           08.03.2017
+##Einundzwanzigste Informatikstunde <a name="einundzwanzig"><a/>                                                           08.03.2017
 
 Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzten zuvor den Code von dem Tutorial, jetzt haben wir nocheinmal einen eigenen geschrieben.
 
