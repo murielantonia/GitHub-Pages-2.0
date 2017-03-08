@@ -57,6 +57,8 @@ Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzte
 
 ![Pages](bilder/Pages41.PNG "Neue Navigationsleiste")
 
+Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder Unterseite zu jeder anderen Unterseite, sowie der Startseite zurückkehren.
+
 
 
 
