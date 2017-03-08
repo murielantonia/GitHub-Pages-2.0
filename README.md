@@ -53,6 +53,8 @@ Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informa
 
 Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzten zuvor den Code von dem Tutorial, jetzt haben wir nocheinmal einen eigenen geschrieben.
 
+![Pages](bilder/Pages41.PNG "Neue Navigationsleiste")
+
 
 
 
