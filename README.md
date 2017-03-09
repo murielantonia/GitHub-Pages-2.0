@@ -69,5 +69,7 @@ Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder 
 
 ![Pages](bilder/Pages42.PNG "Enderbgebnis Website")
 
+Nachdem wir diese Schritte gemeistert hatten, veränderten wir die Seitenränder von 500 zu 200, fügten auf jede unterseite den Galaxy-Hindergrund ein und veränderten auch die Schriftart der Titel. Außerdem fügten wir unserer Navigationsleiste einen "Startseite" Tab hinzu. Wir arbeiten nun weiter daran, unsere Website noch weiter zu perfektionieren. Wir wollen unsere Navigationsleiste horizontal formatieren und die Farbe ändern.
+
 
 
