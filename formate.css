@@ -38,7 +38,7 @@ nav a:hover {
       background-color: #392C7C;
     }
 
-.nav a.active {
+.nav a:active {
   background-color: #fff;
   color: #444;
   cursor: default;
