@@ -5,55 +5,51 @@ h1 { font-size: 2.5em; color: #F5A9F2; text-align: center; }
 
 h2 { font-size: 2.0em; color: #F5A9F2; text-align: center; }
 
-
-.sans-serif {
-	font-family: sans-serif; margin-right: 200px;
-    margin-left: 200px;
-} 
+.sans-serif { font-family: sans-serif; margin-right: 200px; margin-left: 200px; } 
 
 
-
-.nav ul { 
-      list-style: none;
-      background-color: #450c49;
-      text-align: center;
-      padding: 0;
-      margin: 0;
-    }
-
+/* NAVIGATIONSBAR */
+.nav ul {
+  list-style: none;
+  background-color: #340c49;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+.nav a {
+  text-decoration: none;
+  padding: 10px;
+  color: #FFFFFF;
+}
 .nav li {
-      font-family: 'Oswald', sans-serif;
-      font-size: 1.2em;
-      line-height: 40px;
-      height: 40px;
-      border-bottom: 1px solid #450c49;
-    }
-
-nav a {
-      text-decoration: none;
-      color: #fff;
-    }
-
-nav a:hover {
-      background-color: #392C7C;
-    }
-
-.nav a:active {
-  background-color: #fff;
-  color: #444;
-  cursor: default;
+  display: inline-block;
+  float: left;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.nav li a:hover {
+  background-color: #FFFFFF;
+  color: black;
+}
+.nav li a:active {
+  background-color: #000000;
+  color: white;
 }
 
-  .nav li {
-    display: inline-block;
-    margin-right: -4px;
-  }
 
-@media screen and (min-width: 600px) {
-  .nav li {
-    width: 120px;
-    border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
-  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
