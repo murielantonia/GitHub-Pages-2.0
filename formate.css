@@ -43,3 +43,7 @@ nav a:hover {
   color: #444;
   cursor: default;
 }
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
