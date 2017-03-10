@@ -74,5 +74,8 @@ Dies schafften wir sogar noch in dieser Stunde, so dass die Navigationsleiste nu
 
 ![Pages](bilder/Pages46.PNG "Überarbeitete navigationsleiste")
 
+*Eingefüges Bild:
+
+http://www.123gif.de/sternschnuppen/gif-planeten-0328.gif.html
 
 
