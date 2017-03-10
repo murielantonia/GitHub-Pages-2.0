@@ -63,9 +63,19 @@ Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder 
 
 ##Zweiundzwanzigste Informatikstunde <a name="zweiundzwanzig"><a/>                                              09.03.2017
 
+Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvor genutzte "center" durch "justify". Außerdem sollte die Schriftfarbe der Paragraphen nun weiß statt schwarz sein, um sich von dem Hintergurnf besser abzuheben.
+
 ![Pages](bilder/Pages43.PNG "Quellcode Blocktext, Schriftfarbe, Schriftart")
 
+Übersetzung:
+
+Um auch die Schriftart zu verändern, muss eine neue class "sens-serif" hinzugefügt werden. Diese class wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
+
 ![Pages](bilder/Pages44.PNG "class Schriftart html")
+
+Übersetzung:
+
+Die Website mit Blocktext, einer neuer Schriftart ohne Serifen und weißer Schriftfarbe sieht nun wie folgt aus:
 
 ![Pages](bilder/Pages42.PNG "Enderbgebnis Website")
 
@@ -73,6 +83,18 @@ Nachdem wir diese Schritte gemeistert hatten, veränderten wir die Seitenränder
 Dies schafften wir sogar noch in dieser Stunde, so dass die Navigationsleiste nun wie folgt aussieht:
 
 ![Pages](bilder/Pages46.PNG "Überarbeitete navigationsleiste")
+
+![Pages](bilder/Pages47.PNG "Überarbeitete navigationsleiste")
+
+![Pages](bilder/Pages48.PNG "Überarbeitete navigationsleiste")
+
+![Pages](bilder/Pages49.PNG "Überarbeitete navigationsleiste")
+
+![Pages](bilder/Pages50.PNG "Überarbeitete navigationsleiste")
+
+![Pages](bilder/Pages51.PNG "Überarbeitete navigationsleiste")
+
+![Pages](bilder/Pages52.PNG "Überarbeitete navigationsleiste")
 
 *Eingefüges Bild:
 
