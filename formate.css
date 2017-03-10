@@ -41,7 +41,9 @@ h2 { font-size: 2.0em; color: #F5A9F2; text-align: center; }
   color: white;
 }
 
-
+.nav {	  
+    bottom:0px;	height:3em;	left:0px; position:absolute; width:100%;	
+}
 
 
 
