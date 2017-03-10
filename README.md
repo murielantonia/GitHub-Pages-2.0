@@ -19,6 +19,8 @@ LG, Muriel und Antonia!
 
 [Zweiundzwanzigste Informatikstunde](#zweiundzwanzig)
 
+[Zusätzliche Informatikstunde](#zusatz)
+
 ##Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
@@ -79,27 +81,49 @@ Die Website mit Blocktext, einer neuer Schriftart ohne Serifen und weißer Schri
 
 ![Pages](bilder/Pages42.PNG "Enderbgebnis Website")
 
-Nachdem wir diese Schritte gemeistert hatten, veränderten wir die Seitenränder von 500 zu 200, fügten auf jede unterseite den Galaxy-Hindergrund ein und veränderten auch die Schriftart der Titel. Außerdem fügten wir unserer Navigationsleiste einen "Startseite" Tab hinzu. Wir arbeiten nun weiter daran, unsere Website noch weiter zu perfektionieren. Wir wollen unsere Navigationsleiste horizontal formatieren und die Farbe ändern.
-Dies schafften wir sogar noch in dieser Stunde, so dass die Navigationsleiste nun wie folgt aussieht:
+Nachdem wir diese Schritte gemeistert hatten, veränderten wir die Seitenränder von 500 zu 200, fügten auf jede unterseite den Galaxy-Hindergrund ein und veränderten auch die Schriftart der Titel. Außerdem fügten wir unserer Navigationsleiste einen "Startseite" Tab hinzu. Wir arbeiten nun weiter daran, unsere Website noch weiter zu perfektionieren.
 
-![Pages](bilder/Pages45.PNG "Überarbeitete navigationsleiste")
+Wir wollen unsere Navigationsleiste horizontal formatieren und die Farbe ändern.
+Dies schafften wir sogar noch in dieser Stunde mit folgendem Code:
 
 ![Pages](bilder/Pages46.PNG "Überarbeitete navigationsleiste")
 
+Übersetzung:
+
+Die Navigationsleiste sieht nun wie folgt aus:
+
 ![Pages](bilder/Pages47.PNG "Überarbeitete navigationsleiste")
+
+Nun soll noch die Schriftart, sowie die Schriftfarbe in der Navigationsleiste verändert werden. Außerdem soll der Block, welcher die maus berührt farbig unterlegt werden.
+
+##Zusätzliche Informatikstunde <a name="zusatz"></a>                                                            10.03.2017
+
+Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziele einer neuen Schriftart, Schriftfarbe un dbei Berührung neue Farbe erfüllen.
+
+![Pages](bilder/Pages45.PNG "Überarbeitete navigationsleiste")
+
+Übersetzung:
 
 ![Pages](bilder/Pages48.PNG "Überarbeitete navigationsleiste")
 
 ![Pages](bilder/Pages49.PNG "Überarbeitete navigationsleiste")
 
+Die Navigationsleiste sieht nun wie folgt aus:
+
 ![Pages](bilder/Pages50.PNG "Überarbeitete navigationsleiste")
+
+Um unserer Website mehr Shcwung zu geben wollten wir gerne eine Animation einbinden. Wir suchten uns ein animiertes Bild heraus ( http://www.123gif.de/sternschnuppen/gif-planeten-0328.gif.html ) und setzten dies auf unsere Startseite. 
+
+Dazu musste folgender Code an die Stelle im Quellcode geschrieben werden, wo das Bild später erscheinen soll.
 
 ![Pages](bilder/Pages51.PNG "Überarbeitete navigationsleiste")
 
+Übersetzung:
+
+Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hindernisse überwunden und sind gut dabei, die Website zu perfektionieren. Die Navigationsleiste konnten wir erfolgreich horizontal einrichten und Hintergrundfarbe, Schriftfarbe udn Schriftart verändern. Außerdem verändert sich der jeweilige Tab, welcher angeklickt werden soll. Wir wollen nun noch erreichen, dass die navigationsleiste beim scrollen fixiert bleibt. So muss man als Leser nicht wieder zum Anfang scrollen, um zu einer der anderen Unterseiten zu gelangen.
+Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefällt uns bereits sehr gut! Wir überlegen noch eine weitere Leiste hinzuzufügen, in welcher unsere "Werbung" mit dem Link zu unserem GitHub Account steht, zu erstellen. Der einheitliche Blocktext und die Schriftfarbe aller Paragraphen gefällt uns ebenfalls schon sehr gut. Wir sind außerdem sehr glücklich darüber, ein animiertes Bild auf der Startseite eingefügt zu haben. So fällt dem Leser die Startseite direkt auf und bleibt in Erinnerung. Ein weiterer Höhepunkt wäre es, einen Startsound beim Öffnen unserer Website zu erstellen! 
+
 ![Pages](bilder/Pages52.PNG "Überarbeitete navigationsleiste")
 
-*Eingefüges Bild:
-
-http://www.123gif.de/sternschnuppen/gif-planeten-0328.gif.html
 
 
