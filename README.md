@@ -90,6 +90,10 @@ Dies schafften wir sogar noch in dieser Stunde mit folgendem Code:
 
 Übersetzung:
 
+Wir veränderten auch die Hintergrundfarbe der Navigationsleiste
+
+![Pages](bilder/Pages49.PNG "Navigationsleiste andere Hintergrundfarbe")
+
 Die Navigationsleiste sieht nun wie folgt aus:
 
 ![Pages](bilder/Pages46.PNG "Überarbeitete Navigationsleiste Website")
@@ -103,9 +107,6 @@ Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziel
 ![Pages](bilder/Pages45.PNG "Navigationsleiste neue Schriftart, Schriftfarbe")
 
 Übersetzung:
-
-
-![Pages](bilder/Pages49.PNG "Überarbeitete navigationsleiste")
 
 Die Navigationsleiste sieht nun wie folgt aus:
 
