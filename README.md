@@ -1,4 +1,4 @@
-# GitHub-Pages 2.0
+<h1>GitHub-Pages 2.0</h1>
 
 Wir haben unsere ursprüngliche Website upgedatet, um euch vom lästigen Scrollen zu befreien!
 
