@@ -131,9 +131,10 @@ Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefäl
 ##Dreiundzwanzigste informatikstunde <a name="dreiundzwanzig"></a>                                                       14.03.2017
 
 Heute ließen wir die Website von einer außenstehenden Person betrachten. Dabei wollten wir herausfinden, was noch wichtiges fehlt und uns (durch langes Betrachten und Arbeiten mit der Website) noch nicht aufgefallen ist. 
-Wir wurden darauf hingewiesen, dass die einzelnen Unterseitendurch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alle szu lesen ist, weil die Überschriften zu lang sind. Wir erstellten auf diesen Hinweis hin zu jeder Unterseite eine einfache Überschrift zu Beginn jeder Seite. 
-
-
+Wir wurden darauf hingewiesen, dass die einzelnen Unterseitendurch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alle szu lesen ist, weil die Überschriften zu lang sind. 
+Dieser Fehler war ursprünglich kein Fehler!! Es existieren Überschriften, welche lediglich hinter der Navigationsleiste verborgen sind.
+Unsere Website ist also vom Aussehen her ansprechend, wir haben nur ein Problem im code.
+Ein weiteres Problem stellte sich damit, dass die Read.me Datei die Überschriften mit # markiert nicht mehr erkennt. So müssen wir alle Überschriften mit h1, h2 versehen. Dies ist ein zusätzlicher Arbeitsaufwand.
 
 
 
