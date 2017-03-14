@@ -21,6 +21,8 @@ LG, Muriel und Antonia!
 
 [Zusätzliche Informatikstunde](#zusatz)
 
+[Dreiundzwanzigste Informatikstunde](#dreiundzwanzig)
+
 ##Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
@@ -124,6 +126,14 @@ Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hinder
 Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefällt uns bereits sehr gut! Wir überlegen noch eine weitere Leiste hinzuzufügen, in welcher unsere "Werbung" mit dem Link zu unserem GitHub Account steht, zu erstellen. Der einheitliche Blocktext und die Schriftfarbe aller Paragraphen gefällt uns ebenfalls schon sehr gut. Wir sind außerdem sehr glücklich darüber, ein animiertes Bild auf der Startseite eingefügt zu haben. So fällt dem Leser die Startseite direkt auf und bleibt in Erinnerung. Ein weiterer Höhepunkt wäre es, einen Startsound beim Öffnen unserer Website zu erstellen! 
 
 ![Pages](bilder/Pages52.PNG "Überarbeitete Startseite")
+
+
+##Dreiundzwanzigste informatikstunde <a name="dreiundzwanzig"></a>                                                       14.03.2017
+
+Heute ließen wir die Website von einer außenstehenden Person betrachten. Dabei wollten wir herausfinden, was noch wichtiges fehlt und uns (durch langes Betrachten und Arbeiten mit der Website) noch nicht aufgefallen ist. 
+Wir wurden darauf hingewiesen, dass die einzelnen Unterseitendurch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alle szu lesen ist, weil die Überschriften zu lang sind. Wir erstellten auf diesen Hinweis hin zu jeder Unterseite eine einfache Überschrift zu Beginn jeder Seite. 
+
+
 
 
 
