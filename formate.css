@@ -41,9 +41,19 @@ h2 { font-size: 2.0em; color: #F5A9F2; text-align: center; margin-top: 2.5em; }
   color: white;
 }
 
-.nav {	  
-    bottom:0px;	height:3em;	left:0px; position:absolute; width:100%;	
+.nav li {
+    display: inline-block;
+    margin-right: -4px;
 }
+@median screen and (min-width: 600px) {
+    .nav li {
+        width: 120px;
+        border-bottom: none;
+        height: 50px;
+        line-height: 50px;
+        font-size: 1.4em;
+    }
+
 
 
 
