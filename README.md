@@ -139,7 +139,9 @@ Unsere Website ist also vom Aussehen her ansprechend, wir haben nur ein Fehler i
 Um diesen Fehler zu beheben, schrieben wir in die formate.css Datei für die h2 Überschriften einen Abstand zum obereren Rand (margin-top) von 2.5em. Außerdem fanden wir heraus, dass sich ein Abschnitt kopiert und falsch eingefügt hatte. Dies geschieht manchmal, wenn der Rechner zu langsam ist und so wild im Quellcode herumspringt, sobald man etwas anklickt...
 Ein weiteres Problem stellte sich damit, dass die Read.me Datei die Überschriften, die mit "#" markiert sind, nicht mehr erkennt. So müssen wir alle Überschriften mit h1, h2 versehen. Dies ist ein zusätzlicher Arbeitsaufwand.
 
-<h2>Vierundzwanzigste Informatikstunde am 16.03.2017</h2><a name="vierundzwanzig">                                  
+<h2>Vierundzwanzigste Informatikstunde am 16.03.2017</h2><a name="vierundzwanzig">   
+
+Die heutige Stunde haben wir damit angefangen, die Navigationsleiste auf der Startseite an die anderen Navigationsleisten anzugleichen. Das macht das Navigieren auf unserer Website einfacher.
 
 
 
