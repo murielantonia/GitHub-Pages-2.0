@@ -23,6 +23,8 @@ LG, Muriel und Antonia!
 
 [Dreiundzwanzigste Informatikstunde](#dreiundzwanzig)
 
+[Vierundzwanzigste Informatikatunde](#vierundzwanzig)
+
 <h2>Achtzehnte Informatikstunde</h2><a name="achtzehn"><a/>                                                      <h2>23.02.2017</h2>
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
