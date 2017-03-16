@@ -25,7 +25,7 @@ LG, Muriel und Antonia!
 
 [Vierundzwanzigste Informatikatunde](#vierundzwanzig)
 
-<h2>Achtzehnte Informatikstunde</h2><a name="achtzehn"><a/>                                                      <h2>23.02.2017</h2>
+<h2>Achtzehnte Informatikstunde 23.02.2017</h2><a name="achtzehn"><a/>                                                      
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
 Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0). Um nun erste, allgemeingültige Änderungen vornehmen zu können, mussten wir jedes HTML-Dokument mit dem externen Stylesheet formate.css, den wir soeben erstellt haben, pfadmäßig verlinken. Diese Einbindung geschieht durch einen Link, der im Head der HTML-Dokumente definiert wird. In diesen externen Stylesheet können wir den Look der gesamten Website, also auch für alle "Unterseiten" verändern, indem wir nur auf ein einziges Dokument zugreifen. Beispielsweise haben wir zunächst die Schriftgröße auf Start- und Subseiten verändert, um erstmalig von diesem Prinzip Gebrauch zu machen. 
@@ -130,10 +130,10 @@ Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefäl
 ![Pages](bilder/Pages52.PNG "Überarbeitete Startseite")
 
 
-<h2>Dreiundzwanzigste informatikstunde</h2><a name="dreiundzwanzig"></a>                                    <h2>14.03.2017</h2>
+<h2>Dreiundzwanzigste Informatikstunde</h2><a name="dreiundzwanzig"></a>                                    <h2>14.03.2017</h2>
 
 Heute ließen wir die Website von einer außenstehenden Person betrachten. Dabei wollten wir herausfinden, was noch wichtiges fehlt und uns (durch langes Betrachten und Arbeiten mit der Website) noch nicht aufgefallen ist. 
-Wir wurden darauf hingewiesen, dass die einzelnen Unterseitendurch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind, wenn auf den jeweiligen Seiten keine Überschriften vorhanden sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alles zu lesen ist, weil die Überschriften zu lang sind. 
+Wir wurden darauf hingewiesen, dass die einzelnen Unterseiten durch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind, wenn auf den jeweiligen Seiten keine Überschriften vorhanden sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alles zu lesen ist, weil die Überschriften zu lang sind. 
 Dieser Fehler, dass die Unterseiten keine Überschriften haben, war ursprünglich kein Fehler!! Es existieren Überschriften, welche lediglich hinter der Navigationsleiste verborgen sind.
 Unsere Website ist also vom Aussehen her ansprechend, wir haben nur ein Fehler im Code der Navigationsleiste gemacht.
 Um diesen Fehler zu beheben, schrieben wir in die formate.css Datei für die h2 Überschriften einen Abstand zum obereren Rand (margin-top) von 2.5em. Außerdem fanden wir heraus, dass sich ein Abschnitt kopiert und falsch eingefügt hatte. Dies geschieht manchmal, wenn der Rechner zu langsam ist und so wild im Quellcode herumspringt, sobald man etwas anklickt...
