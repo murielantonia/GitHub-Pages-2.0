@@ -23,7 +23,7 @@ LG, Muriel und Antonia!
 
 [Dreiundzwanzigste Informatikstunde](#dreiundzwanzig)
 
-<h2>Achtzehnte Informatikstunde</h2><a name="achtzehn"><a/>                                                              23.02.2017
+<h2>Achtzehnte Informatikstunde</h2><a name="achtzehn"><a/>                                                          <h2>23.02.2017</h2>
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
 Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0). Um nun erste, allgemeingültige Änderungen vornehmen zu können, mussten wir jedes HTML-Dokument mit dem externen Stylesheet formate.css, den wir soeben erstellt haben, pfadmäßig verlinken. Diese Einbindung geschieht durch einen Link, der im Head der HTML-Dokumente definiert wird. In diesen externen Stylesheet können wir den Look der gesamten Website, also auch für alle "Unterseiten" verändern, indem wir nur auf ein einziges Dokument zugreifen. Beispielsweise haben wir zunächst die Schriftgröße auf Start- und Subseiten verändert, um erstmalig von diesem Prinzip Gebrauch zu machen. 
