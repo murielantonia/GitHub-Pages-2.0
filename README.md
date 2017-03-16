@@ -80,6 +80,8 @@ Um auch die Schriftart zu verändern, muss eine neue class "sens-serif" hinzugef
 ![Pages](bilder/Pages44.PNG "class Schriftart html")
 
 Übersetzung:
+Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
+Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten. (em, px, pt, %)
 
 Die Website mit Blocktext, einer neuer Schriftart ohne Serifen und weißer Schriftfarbe sieht nun wie folgt aus:
 
