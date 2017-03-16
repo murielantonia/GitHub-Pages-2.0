@@ -142,6 +142,9 @@ Ein weiteres Problem stellte sich damit, dass die Read.me Datei die Überschrift
 <h2>Vierundzwanzigste Informatikstunde am 16.03.2017</h2><a name="vierundzwanzig">   
 
 Die heutige Stunde haben wir damit angefangen, die Navigationsleiste auf der Startseite an die anderen Navigationsleisten anzugleichen. Das macht das Navigieren auf unserer Website einfacher. Außerdem haben wir, für mehr Übersichtlichkeit, die Überschriften fett formatiert.
+
+![Pages](bilder/Pages53.PNG "Überarbeitete Navigationsleiste")
+
 Im Folgenden haben wir unsere Startseite und ehemalige Conclusion-Seite überarbeitet. Auf der Startseite steht nun etwas allgemeines über unser Projekt und die Conclusion. Aus der Conclusion-Seite wurde unsere Kontakt-Seite. Auf dieser steht eine Beschreibung unseres Teams und ein Link zu unserem GitHub-Account.
 
 
