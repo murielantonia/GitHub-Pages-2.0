@@ -7,7 +7,7 @@ https://murielantonia.github.io/GitHub-Pages-2.0/Startseite
 LG, Muriel und Antonia!
 
 
-##Inhaltsverzeichnis
+<h2>Inhaltsverzeichnis</h2>
 
 [Achtzehnte Informatikstunde](#achtzehn)
 
@@ -23,7 +23,7 @@ LG, Muriel und Antonia!
 
 [Dreiundzwanzigste Informatikstunde](#dreiundzwanzig)
 
-##Achtzehnte Informatikstunde <a name="achtzehn"><a/>                                                              23.02.2017
+<h2>Achtzehnte Informatikstunde</h2><a name="achtzehn"><a/>                                                              23.02.2017
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
 Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHub Pages 2.0). Um nun erste, allgemeingültige Änderungen vornehmen zu können, mussten wir jedes HTML-Dokument mit dem externen Stylesheet formate.css, den wir soeben erstellt haben, pfadmäßig verlinken. Diese Einbindung geschieht durch einen Link, der im Head der HTML-Dokumente definiert wird. In diesen externen Stylesheet können wir den Look der gesamten Website, also auch für alle "Unterseiten" verändern, indem wir nur auf ein einziges Dokument zugreifen. Beispielsweise haben wir zunächst die Schriftgröße auf Start- und Subseiten verändert, um erstmalig von diesem Prinzip Gebrauch zu machen. 
@@ -43,13 +43,13 @@ Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHu
 Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informationen, die uns die Erarbeitung von HTML und CSS erleichtert haben. https://www.w3schools.com/css/default.asp
 
 
-##Neunzehnte Informatikstunde <a name="neunzehn"><a/>                                                                  01.03.2017
+<h2>Neunzehnte Informatikstunde</h2><a name="neunzehn"><a/>                                                                  01.03.2017
 
 ![Pages](bilder/Pages33.PNG "Paragraphen Css Center")
 
 *Arten von Stylesheets beschreiben (external, internal, inline)
 
-##Zwanzigste Informatikstunde<a name="zwanzig"><a/>                                                                   02.03.2017
+<h2>Zwanzigste Informatikstunde</h2><a name="zwanzig"><a/>                                                                   02.03.2017
 
 ![Pages](bilder/Pages37.PNG "Navigationsleiste")
 
@@ -57,7 +57,7 @@ Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informa
 
 *Quellcode Nav.leiste beschreiben!!
 
-##Einundzwanzigste Informatikstunde <a name="einundzwanzig"><a/>                                                           08.03.2017
+<h2>Einundzwanzigste Informatikstunde</h2><a name="einundzwanzig"><a/>                                                           08.03.2017
 
 Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzten zuvor den Code von dem Tutorial, jetzt haben wir nocheinmal einen eigenen geschrieben.
 
@@ -65,7 +65,7 @@ Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzte
 
 Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder Unterseite zu jeder anderen Unterseite, sowie der Startseite zurückkehren.
 
-##Zweiundzwanzigste Informatikstunde <a name="zweiundzwanzig"><a/>                                              09.03.2017
+<h2>Zweiundzwanzigste Informatikstunde</h2><a name="zweiundzwanzig"><a/>                                              09.03.2017
 
 Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvor genutzte "center" durch "justify". Außerdem sollte die Schriftfarbe der Paragraphen nun weiß statt schwarz sein, um sich von dem Hintergrund besser abzuheben.
 
@@ -102,7 +102,7 @@ Die Navigationsleiste sieht nun wie folgt aus:
 
 Nun soll noch die Schriftart, sowie die Schriftfarbe in der Navigationsleiste verändert werden. Außerdem soll der Block, welcher die Maus berührt farbig unterlegt werden.
 
-##Zusätzliche Informatikstunde <a name="zusatz"></a>                                                            10.03.2017
+<h2>Zusätzliche Informatikstunde</h2><a name="zusatz"></a>                                                            10.03.2017
 
 Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziele einer neuen Schriftart, Schriftfarbe und bei Berührung neue Farbe erfüllen.
 
@@ -128,7 +128,7 @@ Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefäl
 ![Pages](bilder/Pages52.PNG "Überarbeitete Startseite")
 
 
-##Dreiundzwanzigste informatikstunde <a name="dreiundzwanzig"></a>                                                       14.03.2017
+<h2>Dreiundzwanzigste informatikstunde</h2><a name="dreiundzwanzig"></a>                                                       14.03.2017
 
 Heute ließen wir die Website von einer außenstehenden Person betrachten. Dabei wollten wir herausfinden, was noch wichtiges fehlt und uns (durch langes Betrachten und Arbeiten mit der Website) noch nicht aufgefallen ist. 
 Wir wurden darauf hingewiesen, dass die einzelnen Unterseitendurch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind, wenn auf den jeweiligen Seiten keine Überschriften vorhanden sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alles zu lesen ist, weil die Überschriften zu lang sind. 
