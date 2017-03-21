@@ -154,18 +154,31 @@ Im Folgenden haben wir unsere Startseite und ehemalige Conclusion-Seite überarb
 In unser letzten Informatikstunde vor der Abgabe unseres Projektes haben wir nocheinmal eine Checkliste mit den für uns wichtigsten Punkten einer Website gemacht:
 
 -Ist der Kontrast von Text zum Hintergrund gut?
+
 -Ist die Schriftgröße gut lesbar?
+
 -Haben alle Links aussagekräftige Title-Tags?
+
 -Werden Links leicht als Links erkannt? (unterstrichen)
+
 -Ist die Hauptnavigation leicht auffindbar?
+
 -Ist die Seitengeneration verständlich?
+
 -Werden die wichtigsten Inhalte nach maximal zwei Klicks erreicht?
+
 -Haben alle Seiten Überschriften?
+
 -Sind alle Überschriften aussagekräftig und beinhalten das (haupt) Schlüsselwort?
+
 -Ziehen sich Styles und Farben einheitlich durch die Seite?
+
 -Wird ein p Tag für Absätze benutzt?
+
 -Sind die Seiten ansprechend gestaltet?
+
 -Ist die Seitengeschwindigkeit in Ordnung?
+
 -Ist (wenn vorhandene) Werbung nicht störend/lästig?
 
 Nachdem wir alle dieser Punkte abhaken konnten, ist unsere Website fürs Erste fertig.
