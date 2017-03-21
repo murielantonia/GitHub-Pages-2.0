@@ -66,6 +66,8 @@ Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzte
 
 ![Pages](bilder/Pages41.PNG "Neue Navigationsleiste")
 
+Übersetzung: "div" definiert einen Teil im html-Dokument. Der Tag wird genutzt, um (gruppen) Blockelemente mit css zu formatieren. In diesem Fall geht es um den Klassen-Sektor der Navigationsleiste (nav). "ul" (unordered list) beschreibt nun die folgende Aufzählungsliste, welche ungeordnet sein darf. "li" beschreibt nun im Folgenden die verschiedenen Listen. In diesem Beispiel geht es um den Klassen-Sektor der Navigationsleiste. Dieser wird mit der jeweiligen Unterseite verlinkt (externer Link) und benannt. Das Attribut "href" bindet die Web-Adresse mit ein. Die Adressen sind immer der Link zu unserer GitHub Pages Seite mit der jeweiligen Benennung der Unterseite. 
+
 Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder Unterseite zu jeder anderen Unterseite, sowie der Startseite zurückkehren.
 
 <h2>Zweiundzwanzigste Informatikstunde am 09.03.2017</h2><a name="zweiundzwanzig"><a/>                                    
