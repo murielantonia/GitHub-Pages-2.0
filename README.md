@@ -76,7 +76,7 @@ Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvo
 
 ![Pages](bilder/Pages43.PNG "Quellcode Blocktext, Schriftfarbe, Schriftart")
 
-Übersetzung:Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
+Übersetzung: Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
 Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten (em, px, pt, %). Wir nutzten die Einheit "em", welche skalierbar ist. Sie entspricht der aktuellen Schriftgröße (1em=12pt=16px=100%)
 
 Um auch die Schriftart zu verändern, mussten wir nun eine neue class "sens-serif" erstellen. Dazu wird ein neues Element in der css-Datei erstellt (".sans-serif").
@@ -98,9 +98,7 @@ Dies schafften wir sogar noch in dieser Stunde mit folgendem Code:
 
 ![Pages](bilder/Pages48.PNG "Code horizontale Navigationsleiste")
 
-Übersetzung:
-
-Wir veränderten auch die Hintergrundfarbe der Navigationsleiste
+Übersetzung: Wir veränderten auch die Hintergrundfarbe der Navigationsleiste
 
 ![Pages](bilder/Pages49.PNG "Navigationsleiste andere Hintergrundfarbe")
 
@@ -116,9 +114,7 @@ Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziel
 
 ![Pages](bilder/Pages45.PNG "Navigationsleiste neue Schriftart, Schriftfarbe")
 
-Übersetzung:
-
-Die Navigationsleiste sieht nun wie folgt aus:
+Übersetzung: Die Navigationsleiste sieht nun wie folgt aus:
 
 ![Pages](bilder/Pages50.PNG "Fertige Navigationsleiste Website")
 
@@ -128,9 +124,7 @@ Dazu musste folgender Code an die Stelle im Quellcode geschrieben werden, wo das
 
 ![Pages](bilder/Pages51.PNG "Code animiertes Bild")
 
-Übersetzung:
-
-Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hindernisse überwunden und sind gut dabei, die Website zu perfektionieren. Die Navigationsleiste konnten wir erfolgreich horizontal einrichten und Hintergrundfarbe, Schriftfarbe udn Schriftart verändern. Außerdem verändert sich der jeweilige Tab, welcher angeklickt werden soll. Wir wollen nun noch erreichen, dass die navigationsleiste beim scrollen fixiert bleibt. So muss man als Leser nicht wieder zum Anfang scrollen, um zu einer der anderen Unterseiten zu gelangen.
+Übersetzung: Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hindernisse überwunden und sind gut dabei, die Website zu perfektionieren. Die Navigationsleiste konnten wir erfolgreich horizontal einrichten und Hintergrundfarbe, Schriftfarbe udn Schriftart verändern. Außerdem verändert sich der jeweilige Tab, welcher angeklickt werden soll. Wir wollen nun noch erreichen, dass die navigationsleiste beim scrollen fixiert bleibt. So muss man als Leser nicht wieder zum Anfang scrollen, um zu einer der anderen Unterseiten zu gelangen.
 Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefällt uns bereits sehr gut! Wir überlegen noch eine weitere Leiste hinzuzufügen, in welcher unsere "Werbung" mit dem Link zu unserem GitHub Account steht, zu erstellen. Der einheitliche Blocktext und die Schriftfarbe aller Paragraphen gefällt uns ebenfalls schon sehr gut. Wir sind außerdem sehr glücklich darüber, ein animiertes Bild auf der Startseite eingefügt zu haben. So fällt dem Leser die Startseite direkt auf und bleibt in Erinnerung. Ein weiterer Höhepunkt wäre es, einen Startsound beim Öffnen unserer Website zu erstellen! 
 
 ![Pages](bilder/Pages52.PNG "Überarbeitete Startseite")
