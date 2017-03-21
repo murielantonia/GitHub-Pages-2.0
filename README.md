@@ -25,6 +25,8 @@ LG, Muriel und Antonia!
 
 [Vierundzwanzigste Informatikatunde](#vierundzwanzig)
 
+[Fünfundzwanzigste Informatikstunde](#fünfundzwanzig)
+
 <h2>Achtzehnte Informatikstunde am 23.02.2017</h2><a name="achtzehn"><a/>                                                      
 
 Die Text- und Grafikinhalte unserer Tic-Tac-Toe Galaxy haben wir bei unserem letzten Projekt strukturiert und damit das Grundgerüst für eine Webseite erstellt (HTML). Da diese optisch wenig ansprechend ist, konzentrieren wir uns in diesem letzten Schulhalbjahr auf das Aneignen von CSS (Cascading Style Sheets) und damit auf die Formatierung der Überschriften, Paragraphen und Bilder. 
@@ -147,4 +149,26 @@ Die heutige Stunde haben wir damit angefangen, die Navigationsleiste auf der Sta
 
 Im Folgenden haben wir unsere Startseite und ehemalige Conclusion-Seite überarbeitet. Auf der Startseite steht nun etwas allgemeines über unser Projekt und die Conclusion. Aus der Conclusion-Seite wurde unsere Kontakt-Seite. Auf dieser steht eine Beschreibung unseres Teams und ein Link zu unserem GitHub-Account.
 
+<h2>Fünfundzwanzigste Informatikstunde am 21.03.2017</h2><a name="fünfundzwanzig">
+
+In unser letzten Informatikstunde vor der Abgabe unseres Projektes haben wir nocheinmal eine Checkliste mit den für uns wichtigsten Punkten einer Website gemacht:
+
+-Ist der Kontrast von Text zum Hintergrund gut?
+-Ist die Schriftgröße gut lesbar?
+-Haben alle Links aussagekräftige Title-Tags?
+-Werden Links leicht als Links erkannt? (unterstrichen)
+-Ist die Hauptnavigation leicht auffindbar?
+-Ist die Seitengeneration verständlich?
+-Werden die wichtigsten Inhalte nach maximal zwei Klicks erreicht?
+-Haben alle Seiten Überschriften?
+-Sind alle Überschriften aussagekräftig und beinhalten das (haupt) Schlüsselwort?
+-Ziehen sich Styles und Farben einheitlich durch die Seite?
+-Wird ein p Tag für Absätze benutzt?
+-Sind die Seiten ansprechend gestaltet?
+-Ist die Seitengeschwindigkeit in Ordnung?
+-Ist (wenn vorhandene) Werbung nicht störend/lästig?
+
+Nachdem wir alle dieser Punkte abhaken konnten, ist unsere Website fürs Erste fertig.
+Es lässt sich noch vieles verbessern und perfektionieren, doch wir sind für diesen relativ kurzen Zeitraum zufrieden mit dem, was wir geschafft haben. Vergleicht man unsere GitHub-Pages mit der GitHub-Pages-2.0 erkennt man DEUTLICHE Unterschiede!
+Wir freuen uns in der Zukunft weiter mit css zu arbeiten und weiter dazuzulernen.
 
