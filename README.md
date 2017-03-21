@@ -73,7 +73,8 @@ Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvo
 
 ![Pages](bilder/Pages43.PNG "Quellcode Blocktext, Schriftfarbe, Schriftart")
 
-Übersetzung:
+Übersetzung:Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
+Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten (em, px, pt, %). Wir nutzten die Einheit "em", welche skalierbar ist. Sie entspricht der aktuellen Schriftgröße (1em=12pt=16px=100%)
 
 Um auch die Schriftart zu verändern, muss eine neue class "sens-serif" hinzugefügt werden. Diese class wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
 
