@@ -57,7 +57,8 @@ Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informa
 
 ![Pages](bilder/Pages38.PNG "Navigationsleiste schwarz")
 
-*Quellcode Nav.leiste beschreiben!!
+Das Besondere an eines Klassen-Selektors ist, dass er auf mehreren Unterseiten verwendet werden kann und jeweils verlinkt ist zu der css-Datei, so können sich wiederholende Elemente bestimmt werden. Eine ID hingegen kann nur für ein Element verwendet werden. (Beispiel hierfür in Kapitel "Neunzehnte Informatikstunde)
+Wichtig: Die Namen dürfen keine Sonderzeichen, Umlaute, Leerzeichen enthalten.Groß- und Kleinschreibung spielen keine Rolle ("case sensitiv")
 
 <h2>Einundzwanzigste Informatikstunde am 08.03.2017</h2><a name="einundzwanzig"><a/>                                     
 
@@ -76,13 +77,13 @@ Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvo
 Übersetzung:Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
 Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten (em, px, pt, %). Wir nutzten die Einheit "em", welche skalierbar ist. Sie entspricht der aktuellen Schriftgröße (1em=12pt=16px=100%)
 
-Um auch die Schriftart zu verändern, muss eine neue class "sens-serif" hinzugefügt werden. Diese class wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
+Um auch die Schriftart zu verändern, mussten wir nun eine neue class "sens-serif" erstellen. Dazu wird ein neues Element in der css-Datei erstellt (".sans-serif").
+Wichtig: Für Klassen muss in der css-Definition vor den Namen ein Punkt geschrieben werden.
+Die Elemente können mit diesem Bezeichner angesprochen werden. Die html-Tags müssen dazu mit dem Attribut "class" versehen werden. Diese class wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
 
 ![Pages](bilder/Pages44.PNG "class Schriftart html")
 
-Übersetzung:
-Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
-Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten. (em, px, pt, %)
+Wir nutzten also den oben erstellten KLassen-Selektor (.sans-serif) für alle Paragraphen der Unterseiten. So ist nun auf unserer Website überall die gleiche Schriftart.
 
 Die Website mit Blocktext, einer neuer Schriftart ohne Serifen und weißer Schriftfarbe sieht nun wie folgt aus:
 
