@@ -49,9 +49,9 @@ Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informa
 
 <h2>Neunzehnte Informatikstunde am 01.03.2017</h2><a name="neunzehn"><a/>                                                       
 
-![Pages](bilder/Pages33.PNG "Paragraphen Css Center")
+![Pages](bilder/Pages33.PNG "Paragraphen CSS Center")
 
-*Arten von Stylesheets beschreiben (external, internal, inline)
+CSS ist eine Stylesheet-Sprache, mit der man Gestaltungsanweisungen programmieren kann, die oft zusammen mit HTML eingesetzt werden. Dabei unterscheidet man drei Arten von Stylesheets. Mit Inline-Styles können Veränderungen direkt und individuell mit dem betreffenden Element in Verbindung gebracht werden. Das dazugehörige Attribut "style" wird im Start-tag des Elementes verankert, der ihm zugehörige Wert steht eingeschlossen in Anführungszeichen. Diese Art der Formatierung ist jedoch zeitaufwendig und fehleranfällig, vorallem bei nachgelagerten Optimierungen der Website.  Statt das Attribut "style" für jedes Element neu definieren zu müssen, kann man alle diesbezüglichen Änderungen in einem Element "style" vornehmen und festhalten. Dieser "Eingebettete Stylesheet" steht immer im Kopfbereich eines Dokumentes und muss vom Browser für jedes Webdokument neu geladen werden. Auf dem Bildschirm ist nicht dessen Inhalt, sondern dessen Effekt zu sehen. Die dritte, und effizienteste, Strategie der Formatierung ist die Verwendung von "Externen Stylesheets", wie unsere formate.css Datei. Diese Art von Stylesheet fasst alle CSS-Deklarationen in sich zusammen und wird mit jedem HTML-Dokument verlinkt. Alle Dokumente, die auf das selbe Stylesheet zurückgreifen, müssen dieses nicht mehrmals herunterladen, sondern können auf die im Cache des Browsers gespeicherte Version zurückgreifen. Die Verwendung von Externen Stylesheets zuegt von Wartungsfreundlichkeit, Geschwindigkeit und Effizienz.    
 
 <h2>Zwanzigste Informatikstunde am 02.03.2017</h2><a name="zwanzig"><a/>                                                        
 
