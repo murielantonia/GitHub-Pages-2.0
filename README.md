@@ -49,9 +49,11 @@ Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informa
 
 <h2>Neunzehnte Informatikstunde am 01.03.2017</h2><a name="neunzehn"><a/>                                                       
 
+CSS ist eine Stylesheet-Sprache, mit der man Gestaltungsanweisungen programmieren kann, die oft zusammen mit HTML eingesetzt werden. Dabei unterscheidet man drei Arten von Stylesheets. Mit Inline-Styles können Veränderungen direkt und individuell mit dem betreffenden Element in Verbindung gebracht werden. Das dazugehörige Attribut "style" wird im Start-tag des Elementes verankert, der ihm zugehörige Wert steht eingeschlossen in Anführungszeichen. Diese Art der Formatierung ist jedoch zeitaufwendig und fehleranfällig, vorallem bei nachgelagerten Optimierungen der Website.  Statt das Attribut "style" für jedes Element neu definieren zu müssen, kann man alle diesbezüglichen Änderungen in einem Element "style" vornehmen und festhalten. Dieser "Eingebettete Stylesheet" steht immer im Kopfbereich eines Dokumentes und muss vom Browser für jedes Webdokument neu geladen werden. Auf dem Bildschirm ist nicht dessen Inhalt, sondern dessen Effekt zu sehen. Die dritte, und effizienteste, Strategie der Formatierung ist die Verwendung von "Externen Stylesheets", wie unsere formate.css Datei. Diese Art von Stylesheet fasst alle CSS-Deklarationen in sich zusammen und wird mit jedem HTML-Dokument verlinkt. Alle Dokumente, die auf das selbe Stylesheet zurückgreifen, müssen dieses nicht mehrmals herunterladen, sondern können auf die im Cache des Browsers gespeicherte Version zurückgreifen. Die Verwendung von Externen Stylesheets zuegt von Wartungsfreundlichkeit, Geschwindigkeit und Effizienz.  
+
 ![Pages](bilder/Pages33.PNG "Paragraphen CSS Center")
 
-CSS ist eine Stylesheet-Sprache, mit der man Gestaltungsanweisungen programmieren kann, die oft zusammen mit HTML eingesetzt werden. Dabei unterscheidet man drei Arten von Stylesheets. Mit Inline-Styles können Veränderungen direkt und individuell mit dem betreffenden Element in Verbindung gebracht werden. Das dazugehörige Attribut "style" wird im Start-tag des Elementes verankert, der ihm zugehörige Wert steht eingeschlossen in Anführungszeichen. Diese Art der Formatierung ist jedoch zeitaufwendig und fehleranfällig, vorallem bei nachgelagerten Optimierungen der Website.  Statt das Attribut "style" für jedes Element neu definieren zu müssen, kann man alle diesbezüglichen Änderungen in einem Element "style" vornehmen und festhalten. Dieser "Eingebettete Stylesheet" steht immer im Kopfbereich eines Dokumentes und muss vom Browser für jedes Webdokument neu geladen werden. Auf dem Bildschirm ist nicht dessen Inhalt, sondern dessen Effekt zu sehen. Die dritte, und effizienteste, Strategie der Formatierung ist die Verwendung von "Externen Stylesheets", wie unsere formate.css Datei. Diese Art von Stylesheet fasst alle CSS-Deklarationen in sich zusammen und wird mit jedem HTML-Dokument verlinkt. Alle Dokumente, die auf das selbe Stylesheet zurückgreifen, müssen dieses nicht mehrmals herunterladen, sondern können auf die im Cache des Browsers gespeicherte Version zurückgreifen. Die Verwendung von Externen Stylesheets zuegt von Wartungsfreundlichkeit, Geschwindigkeit und Effizienz.    
+Übersetzung: Auf diesem Bild ist eine beispielhafte Anwendung eines "Eingebetteten Stylesheet" zu erkennen. Im Kopfbereich des Dokumentes sind, für verschiedene Arten von Elementen, Schriftart und -größe definiert. Sobald das Element im Dokument auftritt, muss es mit einer Identität (ID) als solches belegt und damit mit dem Stylesheet verknüpft werden. Die Textformatierungen finden Verwirklichung und sind auf dem Computerbildschirm sichtbar.
 
 <h2>Zwanzigste Informatikstunde am 02.03.2017</h2><a name="zwanzig"><a/>                                                        
 
@@ -59,8 +61,8 @@ CSS ist eine Stylesheet-Sprache, mit der man Gestaltungsanweisungen programmiere
 
 ![Pages](bilder/Pages38.PNG "Navigationsleiste schwarz")
 
-Das Besondere an eines Klassen-Selektors ist, dass er auf mehreren Unterseiten verwendet werden kann und jeweils verlinkt ist zu der css-Datei, so können sich wiederholende Elemente bestimmt werden. Eine ID hingegen kann nur für ein Element verwendet werden. (Beispiel hierfür in Kapitel "Neunzehnte Informatikstunde)
-Wichtig: Die Namen dürfen keine Sonderzeichen, Umlaute, Leerzeichen enthalten.Groß- und Kleinschreibung spielen keine Rolle ("case sensitiv")
+Das Besondere an eines Klassen-Selektors ist, dass er auf mehreren Unterseiten verwendet werden kann und jeweils verlinkt ist zu der CSS-Datei, so können sich wiederholende Elemente definiert werden. Eine ID hingegen kann nur für ein Element verwendet werden. (Beispiel: Kapitel "Neunzehnte Informatikstunde)
+Wichtig: Die Namen dürfen keine Sonderzeichen, Umlaute, Leerzeichen enthalten. Groß- und Kleinschreibung spielen keine Rolle ("case sensitiv").
 
 <h2>Einundzwanzigste Informatikstunde am 08.03.2017</h2><a name="einundzwanzig"><a/>                                     
 
@@ -68,7 +70,7 @@ Heute überarbeiteten wir unsere bereits erstellte Navigationsleiste. Wir nutzte
 
 ![Pages](bilder/Pages41.PNG "Neue Navigationsleiste")
 
-Übersetzung: "div" definiert einen Teil im html-Dokument. Der Tag wird genutzt, um (gruppen) Blockelemente mit css zu formatieren. In diesem Fall geht es um den Klassen-Sektor der Navigationsleiste (nav). "ul" (unordered list) beschreibt nun die folgende Aufzählungsliste, welche ungeordnet sein darf. "li" beschreibt nun im Folgenden die verschiedenen Listen. In diesem Beispiel geht es um den Klassen-Sektor der Navigationsleiste. Dieser wird mit der jeweiligen Unterseite verlinkt (externer Link) und benannt. Das Attribut "href" bindet die Web-Adresse mit ein. Die Adressen sind immer der Link zu unserer GitHub Pages Seite mit der jeweiligen Benennung der Unterseite. 
+Übersetzung: "div" definiert einen Teil im html-Dokument. Der Tag wird genutzt, um Blockelemente mit CSS zu formatieren. In diesem Fall geht es um den Klassen-Sektor der Navigationsleiste (nav). "ul" (unordered list) beschreibt die folgende Aufzählungsliste, welche ungeordnet sein darf. "li" beschreibt die verschiedenen Listen. In diesem Beispiel geht es um den Klassen-Sektor der Navigationsleiste. Dieser wird mit der jeweiligen Unterseite verlinkt (externer Link) und benannt. Das Attribut "href" bindet die Web-Adresse mit ein. Die Adressen sind immer der Link zu unserer GitHub Pages Seite mit der jeweiligen Benennung der Unterseite. 
 
 Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder Unterseite zu jeder anderen Unterseite, sowie der Startseite zurückkehren.
 
@@ -81,13 +83,13 @@ Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvo
 Übersetzung: Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
 Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten (em, px, pt, %). Wir nutzten die Einheit "em", welche skalierbar ist. Sie entspricht der aktuellen Schriftgröße (1em=12pt=16px=100%)
 
-Um auch die Schriftart zu verändern, mussten wir nun eine neue class "sens-serif" erstellen. Dazu wird ein neues Element in der css-Datei erstellt (".sans-serif").
-Wichtig: Für Klassen muss in der css-Definition vor den Namen ein Punkt geschrieben werden.
-Die Elemente können mit diesem Bezeichner angesprochen werden. Die html-Tags müssen dazu mit dem Attribut "class" versehen werden. Diese class wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
+Um auch die Schriftart zu verändern, mussten wir nun eine neue class "sens-serif" erstellen. Dazu wird ein neues Element im CSS-Dokument erstellt (".sans-serif").
+Wichtig: Für Klassen muss in der CSS-Definition vor den Namen ein Punkt geschrieben werden.
+Die Elemente können mit diesem Bezeichner angesprochen werden. Die HTML-Tags müssen dazu mit dem Attribut "class" versehen werden. Diese Klasse wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
 
 ![Pages](bilder/Pages44.PNG "class Schriftart html")
 
-Wir nutzten also den oben erstellten KLassen-Selektor (.sans-serif) für alle Paragraphen der Unterseiten. So ist nun auf unserer Website überall die gleiche Schriftart.
+Wir nutzten den oben erstellten KLassen-Selektor (.sans-serif) für alle Paragraphen der Unterseiten. So ist nun auf unserer Website überall die gleiche Schriftart.
 
 Die Website mit Blocktext, einer neuer Schriftart ohne Serifen und weißer Schriftfarbe sieht nun wie folgt aus:
 
@@ -108,11 +110,11 @@ Die Navigationsleiste sieht nun wie folgt aus:
 
 ![Pages](bilder/Pages46.PNG "Überarbeitete Navigationsleiste Website")
 
-Nun soll noch die Schriftart, sowie die Schriftfarbe in der Navigationsleiste verändert werden. Außerdem soll der Block, welcher die Maus berührt farbig unterlegt werden.
+Nun soll noch die Schriftart, sowie die Schriftfarbe in der Navigationsleiste verändert werden. Außerdem soll der Block farbig unterlegt werden, sobald der Cursor sich darüber bewegt.
 
 <h2>Zusätzliche Informatikstunde am 10.03.2017</h2><a name="zusatz"></a>                                                  
 
-Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziele einer neuen Schriftart, Schriftfarbe und bei Berührung neue Farbe erfüllen.
+Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziele einer neuen Schriftart, Schriftfarbe und Hintergrundfarbe umsetzen.
 
 ![Pages](bilder/Pages45.PNG "Navigationsleiste neue Schriftart, Schriftfarbe")
 
@@ -120,26 +122,25 @@ Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziel
 
 ![Pages](bilder/Pages50.PNG "Fertige Navigationsleiste Website")
 
-Um unserer Website mehr Shcwung zu geben wollten wir gerne eine Animation einbinden. Wir suchten uns ein animiertes Bild heraus ( http://www.123gif.de/sternschnuppen/gif-planeten-0328.gif.html ) und setzten dies auf unsere Startseite. 
+Um unserer Website mehr Schwung zu geben, haben wir einen animierten Saturn eingefügt, der auf der Startseite erscheint. Wir suchten uns folgendes GIF heraus: ( http://www.123gif.de/sternschnuppen/gif-planeten-0328.gif.html ) 
 
 Dazu musste folgender Code an die Stelle im Quellcode geschrieben werden, wo das Bild später erscheinen soll.
 
 ![Pages](bilder/Pages51.PNG "Code animiertes Bild")
 
-Übersetzung: Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hindernisse überwunden und sind gut dabei, die Website zu perfektionieren. Die Navigationsleiste konnten wir erfolgreich horizontal einrichten und Hintergrundfarbe, Schriftfarbe udn Schriftart verändern. Außerdem verändert sich der jeweilige Tab, welcher angeklickt werden soll. Wir wollen nun noch erreichen, dass die navigationsleiste beim scrollen fixiert bleibt. So muss man als Leser nicht wieder zum Anfang scrollen, um zu einer der anderen Unterseiten zu gelangen.
-Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefällt uns bereits sehr gut! Wir überlegen noch eine weitere Leiste hinzuzufügen, in welcher unsere "Werbung" mit dem Link zu unserem GitHub Account steht, zu erstellen. Der einheitliche Blocktext und die Schriftfarbe aller Paragraphen gefällt uns ebenfalls schon sehr gut. Wir sind außerdem sehr glücklich darüber, ein animiertes Bild auf der Startseite eingefügt zu haben. So fällt dem Leser die Startseite direkt auf und bleibt in Erinnerung. Ein weiterer Höhepunkt wäre es, einen Startsound beim Öffnen unserer Website zu erstellen! 
+Übersetzung: Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hindernisse überwunden und sind gut dabei, die Website zu perfektionieren. Die Navigationsleiste konnten wir erfolgreich horizontal einrichten und Hintergrundfarbe, Schriftfarbe udn Schriftart verändern. Außerdem verändert sich der jeweilige Tab, welcher angeklickt werden soll. Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefällt uns bereits sehr gut! Wir überlegen noch eine weitere Leiste hinzuzufügen, in welcher unsere "Werbung" mit dem Link zu unserem GitHub Account steht, zu erstellen. Der einheitliche Blocktext und die Schriftfarbe aller Paragraphen gefällt uns ebenfalls schon sehr gut. Wir sind außerdem sehr glücklich darüber, ein animiertes Bild auf der Startseite eingefügt zu haben. So fällt dem Leser die Startseite direkt auf und bleibt in Erinnerung. Ein weiterer Höhepunkt wäre es, einen Startsound beim Öffnen unserer Website zu erstellen! 
 
 ![Pages](bilder/Pages52.PNG "Überarbeitete Startseite")
 
 
 <h2>Dreiundzwanzigste Informatikstunde am 14.03.2017</h2><a name="dreiundzwanzig"></a>                                
 
-Heute ließen wir die Website von einer außenstehenden Person betrachten. Dabei wollten wir herausfinden, was noch wichtiges fehlt und uns (durch langes Betrachten und Arbeiten mit der Website) noch nicht aufgefallen ist. 
+Heute ließen wir die Website von einer außenstehenden Person betrachten. Dabei wollten wir herausfinden, was noch wichtiges fehlt und uns, trotz langem Betrachten und Optimieren, nicht aufgefallen ist. 
 Wir wurden darauf hingewiesen, dass die einzelnen Unterseiten durch Schritt 1, Schritt 2, ... in der Navigationsleiste nicht genau genug beschrieben sind, wenn auf den jeweiligen Seiten keine Überschriften vorhanden sind. Wir wollen dies aber so lassen, weil eine ausführliche Beschreibung zu lang für die eine Leiste wäre. Ein weiteres Problem ist, dass im head der Website nicht alles zu lesen ist, weil die Überschriften zu lang sind. 
-Dieser Fehler, dass die Unterseiten keine Überschriften haben, war ursprünglich kein Fehler!! Es existieren Überschriften, welche lediglich hinter der Navigationsleiste verborgen sind.
+Dieser Fehler, dass die Unterseiten keine Überschriften haben, war ursprünglich kein Fehler! Es existieren Überschriften, welche lediglich hinter der Navigationsleiste verborgen sind.
 Unsere Website ist also vom Aussehen her ansprechend, wir haben nur ein Fehler im Code der Navigationsleiste gemacht.
-Um diesen Fehler zu beheben, schrieben wir in die formate.css Datei für die h2 Überschriften einen Abstand zum obereren Rand (margin-top) von 2.5em. Außerdem fanden wir heraus, dass sich ein Abschnitt kopiert und falsch eingefügt hatte. Dies geschieht manchmal, wenn der Rechner zu langsam ist und so wild im Quellcode herumspringt, sobald man etwas anklickt...
-Ein weiteres Problem stellte sich damit, dass die Read.me Datei die Überschriften, die mit "#" markiert sind, nicht mehr erkennt. So müssen wir alle Überschriften mit h1, h2 versehen. Dies ist ein zusätzlicher Arbeitsaufwand.
+Um diesen Fehler zu beheben, schrieben wir in die formate.css Datei für die h2 Überschriften einen Abstand zum obereren Rand (margin-top) von 2.5em. Außerdem fanden wir heraus, dass sich ein Abschnitt kopiert und falsch eingefügt hatte. Dies geschieht manchmal, wenn der Rechner zu langsam ist und so wild im Quellcode herumspringt, sobald man etwas anklickt.
+Ein weiteres Problem stellte sich damit, dass die read.me Datei die Überschriften, die mit "#" markiert sind, nicht mehr erkennt. So müssen wir alle Überschriften mit h1, h2 versehen. Dies ist ein zusätzlicher Arbeitsaufwand.
 
 <h2>Vierundzwanzigste Informatikstunde am 16.03.2017</h2><a name="vierundzwanzig">   
 
@@ -159,7 +160,7 @@ In unser letzten Informatikstunde vor der Abgabe unseres Projektes haben wir noc
 
 -Haben alle Links aussagekräftige Title-Tags?
 
--Werden Links leicht als Links erkannt? (unterstrichen)
+-Werden Links leicht als Links erkannt? Unterstrichen?
 
 -Ist die Hauptnavigation leicht auffindbar?
 
@@ -169,7 +170,7 @@ In unser letzten Informatikstunde vor der Abgabe unseres Projektes haben wir noc
 
 -Haben alle Seiten Überschriften?
 
--Sind alle Überschriften aussagekräftig und beinhalten das (haupt) Schlüsselwort?
+-Sind alle Überschriften aussagekräftig und beinhalten das Schlüsselwort?
 
 -Ziehen sich Styles und Farben einheitlich durch die Seite?
 
