@@ -184,5 +184,9 @@ Nachdem wir alle dieser Punkte abhaken konnten, ist unsere Website fürs Erste f
 Es lässt sich noch vieles verbessern und perfektionieren, doch wir sind für diesen relativ kurzen Zeitraum zufrieden mit dem, was wir geschafft haben. Vergleicht man unsere GitHub-Pages mit der GitHub-Pages-2.0 erkennt man DEUTLICHE Unterschiede!
 Wir freuen uns in der Zukunft weiter mit css zu arbeiten und weiter dazuzulernen.
 
-Zum Abschluss vergleichen diese beiden Screenshots unsere Website MIT und OHNE Formatierungen und Stylesheets. 
+Zum Abschluss vergleichen wir diese beiden Screenshots unsere Website OHNE und MIT Formatierungen und Stylesheets. 
+
+![Pages](biler/Pgaes54.PNG "Alte Website")
+
+![Pages](bilder/Pages55.PNG "Neue Website")
 
