@@ -42,7 +42,7 @@ Zunächst erstellten wir eine neue Datei formate.css in diesem Repository (GitHu
 
 ![Pages](bilder/Pages29.PNG "Mittiger Text")
 
-![Pages](bilder/Pages31.PNG "Mittige Überschrift(h1)")
+![Pages](bilder/Pages31.PNG "Mittige Überschrift (h1)")
 
 Geheimtipp: Dieses Online-Tutorial enthält viele wichtige und relevante Informationen, die uns die Erarbeitung von HTML und CSS erleichtert haben. https://www.w3schools.com/css/default.asp
 
@@ -59,7 +59,7 @@ CSS ist eine Stylesheet-Sprache, mit der man Gestaltungsanweisungen programmiere
 
 ![Pages](bilder/Pages37.PNG "Navigationsleiste")
 
-![Pages](bilder/Pages38.PNG "Navigationsleiste schwarz")
+![Pages](bilder/Pages38.PNG "Navigationsleiste Schwarz")
 
 Das Besondere an eines Klassen-Selektors ist, dass er auf mehreren Unterseiten verwendet werden kann und jeweils verlinkt ist zu der CSS-Datei, so können sich wiederholende Elemente definiert werden. Eine ID hingegen kann nur für ein Element verwendet werden. (Beispiel: Kapitel "Neunzehnte Informatikstunde)
 Wichtig: Die Namen dürfen keine Sonderzeichen, Umlaute, Leerzeichen enthalten. Groß- und Kleinschreibung spielen keine Rolle ("case sensitiv").
@@ -78,7 +78,7 @@ Diesen Code fügten wir nun bei jeder unserer Seiten ein. So kann man von jeder 
 
 Um einen Blocktext zu erstellen, ersetzten wir das für die Paragraphen (p) zuvor genutzte "center" durch "justify". Außerdem sollte die Schriftfarbe der Paragraphen nun weiß statt schwarz sein, um sich von dem Hintergrund besser abzuheben.
 
-![Pages](bilder/Pages43.PNG "Quellcode Blocktext, Schriftfarbe, Schriftart")
+![Pages](bilder/Pages43.PNG "Quellcode Blocktext, Schriftfarbe und Schriftart")
 
 Übersetzung: Die in der css-Datei geschriebenen Befehle werden in allen Unterseiten mit html Code, welche mit der css-Seite verlinkt sind, automatisch übernommen und eingefügt.
 Das "p" gilt also für alle Paragraphen. Die Schriftgröße ("font-size") beschreibt die Anpassung der Schrift. Hierfür gibt es vier Größeneinheiten (em, px, pt, %). Wir nutzten die Einheit "em", welche skalierbar ist. Sie entspricht der aktuellen Schriftgröße (1em=12pt=16px=100%)
@@ -87,7 +87,7 @@ Um auch die Schriftart zu verändern, mussten wir nun eine neue class "sens-seri
 Wichtig: Für Klassen muss in der CSS-Definition vor den Namen ein Punkt geschrieben werden.
 Die Elemente können mit diesem Bezeichner angesprochen werden. Die HTML-Tags müssen dazu mit dem Attribut "class" versehen werden. Diese Klasse wird dann in die einzelnen Dokumente der Unterseiten ebenfalls hinzugefügt.
 
-![Pages](bilder/Pages44.PNG "class Schriftart html")
+![Pages](bilder/Pages44.PNG "Class Schriftart (HTML)")
 
 Wir nutzten den oben erstellten KLassen-Selektor (.sans-serif) für alle Paragraphen der Unterseiten. So ist nun auf unserer Website überall die gleiche Schriftart.
 
@@ -100,11 +100,13 @@ Nachdem wir diese Schritte gemeistert hatten, veränderten wir die Seitenränder
 Wir wollen unsere Navigationsleiste horizontal formatieren und die Farbe ändern.
 Dies schafften wir sogar noch in dieser Stunde mit folgendem Code:
 
-![Pages](bilder/Pages48.PNG "Code horizontale Navigationsleiste")
+![Pages](bilder/Pages48.PNG "Code Horizontale Navigationsleiste")
 
-Übersetzung: Wir veränderten auch die Hintergrundfarbe der Navigationsleiste
+Übersetzung: Das Element "nav" umschließt Navigationsleisten und Menüs. In unserem externen Stylesheet definieren wir alle Formatierungen, die unsere Navigationsleiste betreffen. "ul" steht für "unordered list". In dieser Klasse konnten wir erste Eigenschaften der Leiste definieren, beispielsweise dessen Hintergrundfarbe. Der Außenabstand (margin) beschreibt die Entfernung eines Elementes zu einem Nachbarelement, der Innenabstand (padding) gibt den Abstand vom Rand zum Inhalt eines Elementes an. Da die klasse .nav ul jedoch nicht einzelne Elemente der Navigationsleiste, sondern die Liste der Titel und Links als Ganzes beschreibt, also als Überkategorie fungiert, lohnt es an dieser Stelle noch nicht, die Abstände innen und außen anzulegen. Die Liste hat keinen style, was bedeutet, dass sie keine Nummerierung oder Aufzählungszeichen enthält. Die Klassse .nav a beschreibt die Links zu den "Unterseiten" der Website, die an dieser Stelle in Form eines Buttons auftreten. Werden sie angeklickt, wird der Link abgreufen und man wird auf der Website navigiert. Hier ist ein Innenabstand integriert, damit der Link reagiert, wenn man den Text oder Rand anklickt. Der Text ist nicht "dekoriert", das heißt, er ist zu Designzwecken nicht als Link erkennbar gemacht, nicht unterstrichen, hinterlegt oder markiert. Die .nav li Klasse beschreibt die Listenelemente, in unserem Fall Schritt 1, Schritt 2, Schritt 3. Diese sollen nicht untereinander (vertikal), sondern nebeneinander (horizontal) angezeigt werden, wofür wir float: left definiert haben. Auch hier haben wir, aus ästhetischen Gründen, einen Innenabstand eingerichtet und damit die gesamte Leiste verbreitert. Auch Schriftart und -größe haben wir definiert. 
 
-![Pages](bilder/Pages49.PNG "Navigationsleiste andere Hintergrundfarbe")
+Wir veränderten auch die Hintergrundfarbe der Navigationsleiste, wenn der Cursor sich darüber bewegt (hover) oder sie anklickt (active).
+
+![Pages](bilder/Pages49.PNG "Navigationsleiste Andere Hintergrundfarbe")
 
 Die Navigationsleiste sieht nun wie folgt aus:
 
@@ -116,7 +118,7 @@ Nun soll noch die Schriftart, sowie die Schriftfarbe in der Navigationsleiste ve
 
 Wir setzten uns weiter mit der Navigationsleiste auseinander und konnte die Ziele einer neuen Schriftart, Schriftfarbe und Hintergrundfarbe umsetzen.
 
-![Pages](bilder/Pages45.PNG "Navigationsleiste neue Schriftart, Schriftfarbe")
+![Pages](bilder/Pages45.PNG "Navigationsleiste (Neue Schriftart und Schriftfarbe)")
 
 Übersetzung: Die Navigationsleiste sieht nun wie folgt aus:
 
@@ -126,7 +128,7 @@ Um unserer Website mehr Schwung zu geben, haben wir einen animierten Saturn eing
 
 Dazu musste folgender Code an die Stelle im Quellcode geschrieben werden, wo das Bild später erscheinen soll.
 
-![Pages](bilder/Pages51.PNG "Code animiertes Bild")
+![Pages](bilder/Pages51.PNG "Code: Animiertes Bild")
 
 Übersetzung: Unsere Startseite gefällt uns nun schon sehr gut. Wir haben schon einige Hindernisse überwunden und sind gut dabei, die Website zu perfektionieren. Die Navigationsleiste konnten wir erfolgreich horizontal einrichten und Hintergrundfarbe, Schriftfarbe udn Schriftart verändern. Außerdem verändert sich der jeweilige Tab, welcher angeklickt werden soll. Auch das Layout mit dem einheitlichen Galaxy-Hintergrund auf allen Seiten gefällt uns bereits sehr gut! Wir überlegen noch eine weitere Leiste hinzuzufügen, in welcher unsere "Werbung" mit dem Link zu unserem GitHub Account steht, zu erstellen. Der einheitliche Blocktext und die Schriftfarbe aller Paragraphen gefällt uns ebenfalls schon sehr gut. Wir sind außerdem sehr glücklich darüber, ein animiertes Bild auf der Startseite eingefügt zu haben. So fällt dem Leser die Startseite direkt auf und bleibt in Erinnerung. Ein weiterer Höhepunkt wäre es, einen Startsound beim Öffnen unserer Website zu erstellen! 
 
