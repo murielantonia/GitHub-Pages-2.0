@@ -186,7 +186,7 @@ Wir freuen uns in der Zukunft weiter mit css zu arbeiten und weiter dazuzulernen
 
 Zum Abschluss vergleichen wir diese beiden Screenshots unsere Website OHNE und MIT Formatierungen und Stylesheets. 
 
-![Pages](biler/Pages54.png "Alte Website")
+![Pages](bilder/Pages54.png "Alte Website")
 
 ![Pages](bilder/Pages55.png "Neue Website")
 
